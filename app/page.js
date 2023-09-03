@@ -50,18 +50,25 @@ export default function Home() {
             <p className="py-2 text-gray-100">Participated in a global simulated trading competition hosted by IMC, placed top 5% of the contestants (11,578)
 by achieving an 80% return on investment. Lead a team of three to develop multiple trading strategies using technical and fundamental analysis
 in Python, and created a profit and loss visualizer using the Matplotlib library. Learned the importance of diversification, risk management and adaptation to changing market conditions.</p>
+            <h4 className="text-gray-100 text-lg">Tools Used:  Python, Matplotlib, Pandas</h4>
           </div>
           <div className=" bg-cyan-600 shadow-2xl  p-10 rounded-xl my-10">
             <h3 className="text-gray-100 font-medium text-xl text-center pb-2">  Course Checker </h3>
             <p className="py-2 text-gray-100">Used Python to create a bot that monitors seat openings in specified UBC courses and then utilized Twilio’s API to send SMS notifications to 
             the user. Checked courses using Python cookies, requests and regex to request the page and then efficiently find the required seat information. Simulated real browser traffic by
             using specific request headers</p>
+            <h4 className="text-gray-100 text-lg">Tools Used:  Python, Regex, Requests, Cookies</h4>
           </div>
           <div className=" bg-cyan-600 shadow-2xl  p-10 rounded-xl my-10">
             <h3 className="text-gray-100 font-medium text-xl text-center pb-2">  Student-Athlete Scheduler </h3>
-            <p className="py-2 text-gray-100">Used Python to create a bot that monitors seat openings in specified UBC courses and then utilized Twilio’s API to send SMS notifications to 
-            the user. Checked courses using Python cookies, requests and regex to request the page and then efficiently find the required seat information. Simulated real browser traffic by
-            using specific request headers</p>
+            <p className="py-2 text-gray-100">Created a Scheduling application using Java and its Swing GUI toolkit. The app, specifically designed for myself and other student athletes,
+             helped to manage workouts, assignments and exams by giving a visual breakdown of the week and displaying a task list. Designed the app using design patterns, abstraction and
+             inheritance to organize class hierarchy and reduce code repetition. Stored states with JSON object persistence and tested each part of the design using JUnit unit tests.</p>
+          </div>
+          <div className=" bg-cyan-600 shadow-2xl  p-10 rounded-xl my-10">
+            <h3 className="text-gray-100 font-medium text-xl text-center pb-2">  Spaceship Game LAN </h3>
+            <p className="py-2 text-gray-100">Coded a spaceship shooting game with programmed enemies and obstacles using Python and PYFLTK. Later modified it to use UDP protocol to
+            play over classroom LAN against classmates.</p>
           </div>
         </div>
       </section>
