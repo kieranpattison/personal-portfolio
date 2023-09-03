@@ -64,6 +64,7 @@ in Python, and created a profit and loss visualizer using the Matplotlib library
             <p className="py-2 text-gray-100">Created a Scheduling application using Java and its Swing GUI toolkit. The app, specifically designed for myself and other student athletes,
              helped to manage workouts, assignments and exams by giving a visual breakdown of the week and displaying a task list. Designed the app using design patterns, abstraction and
              inheritance to organize class hierarchy and reduce code repetition. Stored states with JSON object persistence and tested each part of the design using JUnit unit tests.</p>
+             <h4 className="text-gray-100 text-lg">Tools Used:  Python, Regex, Requests, Cookies</h4>
           </div>
           <div className=" bg-cyan-600 shadow-2xl  p-10 rounded-xl my-10">
             <h3 className="text-gray-100 font-medium text-xl text-center pb-2">  Spaceship Game LAN </h3>
